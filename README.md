@@ -16,3 +16,4 @@
 ### 📂 Estructura del Repositorio
 
 git clone https://github.com/[tu-usuario]/[nombre-del-repositorio].git
+cd taller/src
